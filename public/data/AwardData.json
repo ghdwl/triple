@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "img": "/images/play-store2x.png",
+      "upper": "2018 구글 플레이스토어",
+      "lower": "올해의 앱 최우수상 수상"
+    },
+    {
+      "id": 2,
+      "img": "/images/badge-apple4x.png",
+      "upper": "2018 애플 앱스토어",
+      "lower": "오늘의 여행앱 선정"
+    }
+  ]
+  
